@@ -1,2 +1,3 @@
 hello world !
-cao ni ma
+#include
+int main
